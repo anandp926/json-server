@@ -1,0 +1,58 @@
+{
+        "tables": {
+            "users": {
+                "columns": [
+                    "id",
+                    "name",
+                    "email",
+                    "password",
+                    "city"
+                ]
+            },
+            "sfUsers": {
+                "columns": [
+                    "id",
+                    "name",
+                    "email",
+                    "password",
+                    "loaction"
+                ]
+            }
+        },
+        "users": {
+            "data": [
+                {
+                    "id": "sd2f",
+                    "name": "Anand Singh",
+                    "email": "sanand926@gmail.com",
+                    "password": "534fd",
+                    "city": "BLR"
+                },
+                {
+                    "id": "s54f",
+                    "name": "Parihar",
+                    "email": "and926@fd.com",
+                    "password": "5yed",
+                    "city": "LKO"
+                }
+            ]
+        },
+        "sfUsers": {
+            "data": [
+                {
+                    "id": "sdwe",
+                    "name": "Singh",
+                    "email": "sdg@gfd.er",
+                    "password": "vds4",
+                    "location": "JApan"
+                },
+                {
+                    "id": "h4jk",
+                    "name": "Jhon Deo",
+                    "email": "asf@dfs.com",
+                    "password": "2352f",
+                    "location": "Mumbai"
+                }
+            ]
+        }
+}
